@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AQUADET CORPORATION</title>
+</head>
+<body>
+  <h1>Welcome to AQUADET CORPORATION</h1>
+  <p>23 Tapti Nagar, Adhartal, Jabalpur, Madhya Pradesh, 482004</p>
+  <p>Email: aquadet@gmail.com</p>
+  <h2>Our Products</h2>
+  <ul>
+    <li>Boiler Chemicals</li>
+    <li>Cooling Tower Chemicals</li>
+    <li>Dust Suppression Solutions</li>
+    <li>Liquid Soap</li>
+    <li>ETP & STP Chemicals</li>
+  </ul>
+</body>
+</html>
